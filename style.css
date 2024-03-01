@@ -1,0 +1,16 @@
+h2{
+    color: red;
+    background-color: blue;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+#nav-bar {
+    background-color: orange;
+}
